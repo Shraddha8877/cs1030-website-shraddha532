@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to another page
 
-title: About Me
+
 ---
 
 # About Me
