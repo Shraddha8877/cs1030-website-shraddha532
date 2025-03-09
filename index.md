@@ -8,6 +8,6 @@ layout: default
 
 [Github Themes](https://pages.github.com/themes/)
 <img src="assets/img/Shraddha.png" alt="Shraddha Chudal Picture ">
-
+![Shraddha Chudal Picture](assets/img/Shraddha.png)
 
 
