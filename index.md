@@ -10,4 +10,11 @@ layout: default
 
 ![Shraddha Chudal Picture](assets/img/Shraddha.png)
 
+## My Interests
+- Programming
+- Traveling
+- Reading Books
+- Playing Chess
+
+
 
