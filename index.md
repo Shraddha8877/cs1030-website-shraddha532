@@ -7,7 +7,7 @@ layout: default
 [Link to another page](./another-page.html).
 
 [Github Themes](https://pages.github.com/themes/)
-<img src="/assets/img/Shraddha.png" alt="Shraddha Chudal Picture ">
+<img src="assets/img/Shraddha.png" alt="Shraddha Chudal Picture ">
 
 
 
