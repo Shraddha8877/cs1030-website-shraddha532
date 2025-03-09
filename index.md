@@ -16,5 +16,12 @@ layout: default
 - Reading Books
 - Playing Chess
 
+## Courses I'm Taking
+| Course Name          | Course Code |
+|----------------------|------------|
+| Computer Science    | CS 1030    |
+| English I           | ENG 1010  |
+| Database and SQl    | CS 2500    |
+| GEOG                | GEOG 1300  |
 
 
